@@ -4,6 +4,10 @@ Simple data logger written in python intended to be used with sensor data collec
 
 While the Arduino IDE offers already a data logger, more functionality is available in this package.
 
+![](https://raw.githubusercontent.com/antgi1/serial_plotter/master/screen.png "Screenshot in Windows XP.")
+
+
+
 
 
 
