@@ -1,6 +1,6 @@
 # Serial Plotter
 
-Simple data logger written in python intended to be used with sensor data collecter by serial communication (for example form an Arduino).
+Simple data logger written in python intended to be used with sensor data collecter by serial communication (for example from an Arduino).
 
 While the Arduino IDE already offers a data logger, this package offers some extra functionality.
 
